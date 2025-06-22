@@ -1,0 +1,12 @@
+{
+    "name": "runcloud/assessment",
+    "description": "RunCloud Assessment Solution",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "RunCloud\\": "src/"
+        }
+    },
+    "require": {}
+}
