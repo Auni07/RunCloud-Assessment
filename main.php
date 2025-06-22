@@ -29,7 +29,7 @@
  * You may do anything to let the code below work without changing anything.
  */
 
-require_once __DIR__ . '/autoload.php';
+require_once __DIR__ . '/vendor/autoload.php';
 
 use RunCloud\User;
 use RunCloud\Server;
